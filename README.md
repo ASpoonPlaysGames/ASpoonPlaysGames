@@ -6,7 +6,6 @@
 ### Currently learning:
 - C++
 - Java
+- Go
 
 I'm also currently a student, studying Computing.
-
-### **OOP gang**
